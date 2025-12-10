@@ -110,4 +110,5 @@ Hoan nghênh mọi đóng góp hoặc PR để cải thiện thuật toán và c
 
 ## 👤 Tác giả
 
-Developed by **\[Tên Của Bạn\]**
+Developed by **Cuong512**
+
