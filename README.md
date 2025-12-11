@@ -60,7 +60,7 @@ Class **Graph** hỗ trợ cả đồ thị có hướng và vô hướng, bao g
 
 ### Yêu cầu
 
--   Visual Studio 2019/2022\
+-   Visual Studio 2019/2022
 -   Hoặc GCC hỗ trợ C++11 trở lên
 
 ------------------------------------------------------------------------
@@ -76,22 +76,22 @@ Mở file `.sln` hoặc mở folder dự án bằng Visual Studio.
 
 ### **Bước 2:** Chọn bài muốn chạy
 
-Trong **Solution Explorer**:\
+Trong **Solution Explorer**:
 ➡ Chuột phải file (VD: `Bai41_SuaDuong.cpp`) → **Properties**
 
 ### **Bước 3:** Tắt build những file bài tập khác
 
 Lặp lại cho từng file khác:
 
-1.  Chuột phải file → **Properties**\
-2.  Vào **Configuration Properties → General**\
+1.  Chuột phải file → **Properties**
+2.  Vào **Configuration Properties → General**
 3.  Đặt **Exclude From Build = Yes** (cả Debug và Release)
 
 👉 Cách này tránh lỗi `LNK2005: main already defined`.
 
 ### **Bước 4:** Build & Run
 
--   Nhấn **Ctrl + F5** để chạy\
+-   Nhấn **Ctrl + F5** để chạy
 -   Hoặc **F5** để debug
 
 ------------------------------------------------------------------------
@@ -111,5 +111,6 @@ Hoan nghênh mọi đóng góp hoặc PR để cải thiện thuật toán và c
 ## 👤 Tác giả
 
 Developed by **Cuong512**
+
 
 
