@@ -34,7 +34,7 @@ Class **Graph** hỗ trợ cả đồ thị có hướng và vô hướng, bao g
 
 ### 🔹 Tìm đường đi ngắn nhất
 
--   **Dijkstra** -- tối ưu cho đồ thị trọng số không âm\
+-   **Dijkstra** -- tối ưu cho đồ thị trọng số không âm
 -   **Bellman-Ford** -- phát hiện chu trình âm
 
 ### 🔹 Cây khung nhỏ nhất (MST)
@@ -43,7 +43,7 @@ Class **Graph** hỗ trợ cả đồ thị có hướng và vô hướng, bao g
 
 ### 🔹 Tính liên thông & cấu trúc đồ thị
 
--   **Tarjan** -- tìm articulation points\
+-   **Tarjan** -- tìm articulation points
 -   **BFS/DFS** -- duyệt đồ thị, đếm thành phần liên thông
 
 ## 📚 Danh sách bài tập (Case Studies)
@@ -111,4 +111,5 @@ Hoan nghênh mọi đóng góp hoặc PR để cải thiện thuật toán và c
 ## 👤 Tác giả
 
 Developed by **Cuong512**
+
 
